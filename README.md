@@ -25,4 +25,4 @@ I have collaborated with developers from **Andela Kenya**, **Facebook SDGs** amo
 <br>
  
  **Social links** <br>
-  ![](https://badges.aleen42.com/src/facebook.svg) ![](https://badges.aleen42.com/src/reddit.svg)  ![](https://badges.aleen42.com/src/instagram.svg)  ![](https://badges.aleen42.com/src/soundcloud.svg)
+  [](https://web.facebook.com/code.pappa.9)![](https://badges.aleen42.com/src/facebook.svg) ![](https://badges.aleen42.com/src/reddit.svg)  ![](https://badges.aleen42.com/src/instagram.svg)  ![](https://badges.aleen42.com/src/soundcloud.svg)
